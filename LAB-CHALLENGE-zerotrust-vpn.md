@@ -3,11 +3,6 @@
 **Difficulty:** Advanced · **Est. time:** 8–14 hours · **Platform:** PNetLab / EVE-NG
 **Technologies:** Cisco ASA · Cisco ISE · AnyConnect · RADIUS · Certificates · Posture · dACLs · Segmentation
 
-> ⚠️ \\\\\\\*\\\\\\\*This file contains NO configuration.\\\\\\\*\\\\\\\* It is the scenario, the requirements, and the questions.
-> The configs and answers live in the companion file — don't open it until you've tried.
-
-\---
-
 ## 📖 The Scenario
 
 **NordWerk Logistik GmbH** — a mid-size logistics company, HQ in Düsseldorf, \~400 employees, plus external contractors who manage the warehouse management software.
